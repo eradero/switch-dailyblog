@@ -18,17 +18,10 @@ import HeaderLink from './HeaderLink.astro';
 	header {
 		margin: 0;
 		padding: 0 1em;
-		background: var(--glass-bg);
-		backdrop-filter: blur(12px);
-		-webkit-backdrop-filter: blur(12px);
-		border-bottom: 1px solid var(--glass-border);
-		box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+		background: #e60012;
+		border-bottom: 4px solid var(--accent-blue);
+		box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 	}
-	h2 {
-		margin: 0;
-		font-size: 1.2em;
-	}
-
 	h2 a,
 	h2 a.active {
 		text-decoration: none;
@@ -42,18 +35,16 @@ import HeaderLink from './HeaderLink.astro';
 	}
 	nav a {
 		padding: 1em 0.5em;
-		color: var(--text-primary);
+		color: #ffffff;
 		border-bottom: 4px solid transparent;
 		text-decoration: none;
-		transition: color 0.2s;
+		transition: opacity 0.2s;
 	}
 	nav a:hover {
-		color: var(--accent);
+		opacity: 0.8;
 	}
 	nav a.active {
-		text-decoration: none;
-		border-bottom-color: var(--accent);
-		color: var(--accent);
+		border-bottom-color: #ffffff;
 	}
 
 </style>
