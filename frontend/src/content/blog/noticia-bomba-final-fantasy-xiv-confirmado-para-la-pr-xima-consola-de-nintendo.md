@@ -2,7 +2,7 @@
 title: '¡Noticia BOMBA! Final Fantasy XIV, ¿Confirmado para la Próxima Consola de Nintendo?'
 description: 'El aclamado MMORPG Final Fantasy XIV podría estar oficialmente en camino para la sucesora de Nintendo Switch, ¡desatando la emoción!'
 pubDate: 'Apr 25 2026'
-heroImage: 'https://tierragamer.com/wp-content/uploads/2026/01/final-fantasy-14-switch.webp'
+heroImage: 'https://wsrv.nl/?url=tierragamer.com/wp-content/uploads/2026/01/final-fantasy-14-switch.webp'
 ---
 
 ### ¡Atención, Nintenderos y Guerreros de la Luz! Una Noticia que Podría Cambiar el Juego

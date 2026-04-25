@@ -2,7 +2,7 @@
 title: '¡Noticia BOMBA! Mina the Hollower de Yacht Club Games Ha Terminado su Desarrollo: ¿Listo para la Aventura Gótica en tu Switch?'
 description: 'Yacht Club Games anuncia la finalización del desarrollo de Mina the Hollower, ¡cada vez más cerca de Nintendo Switch!'
 pubDate: 'Apr 24 2026'
-heroImage: 'https://img2.storyblok.com/fit-in/800x800/f/93161/994x960/9bda823176/kickstartersupportgraphic-funded-v2.png'
+heroImage: 'https://wsrv.nl/?url=img2.storyblok.com/fit-in/800x800/f/93161/994x960/9bda823176/kickstartersupportgraphic-funded-v2.png'
 ---
 
 ¡Fanáticos de Nintendo y amantes de las aventuras pixeladas, prepárense para una noticia que hará vibrar vuestros Joy-Con! **Yacht Club Games**, el aclamado estudio detrás del legendario *Shovel Knight*, ha anunciado que el desarrollo de su esperado título, **Mina the Hollower**, ha llegado a su fin. ¡Así es, la fase principal de creación de este intrigante proyecto está oficialmente *terminada*!

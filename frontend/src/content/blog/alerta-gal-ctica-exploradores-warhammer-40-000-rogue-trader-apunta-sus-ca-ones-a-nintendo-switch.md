@@ -2,7 +2,7 @@
 title: '¡Alerta Galáctica, Exploradores! Warhammer 40,000: Rogue Trader Apunta Sus Cañones a Nintendo Switch'
 description: 'El aclamado CRPG Warhammer 40,000: Rogue Trader podría estar en camino a Nintendo Switch, prometiendo una épica aventura espacial portátil.'
 pubDate: 'Apr 24 2026'
-heroImage: 'https://roguetrader.owlcat.games/storage/images/5f5fef153e58eebab374d2a8e96234c7.jpg'
+heroImage: 'https://wsrv.nl/?url=roguetrader.owlcat.games/storage/images/5f5fef153e58eebab374d2a8e96234c7.jpg'
 ---
 
 ### ¡Preparaos para la Guerra Estelar en el Bolsillo! Warhammer 40,000: Rogue Trader Podría Estar Llegando a Nintendo Switch
