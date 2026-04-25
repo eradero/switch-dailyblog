@@ -2,7 +2,7 @@ import feedparser
 from bs4 import BeautifulSoup
 import requests
 
-RSS_URL = "https://news.google.com/rss/search?q=nintendo switch news OR nintendo switch 2 OR new nintendo games&hl=es-419&gl=AR&ceid=AR:es-419"
+RSS_URL = "https://news.google.com/rss/search?q=nintendo+switch+news+OR+nintendo+switch+2+OR+new+nintendo+games&hl=es-419&gl=AR&ceid=AR:es-419"
 
 def fetch_latest_news():
     """Fetches the latest news from the RSS feed."""
