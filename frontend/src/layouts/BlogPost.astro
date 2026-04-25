@@ -101,9 +101,11 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 						<hr />
 					</div>
 					<slot />
-                    <div style="margin-top: 4rem;">
-                        <hr />
-                        <h2 style="text-align: center; margin-bottom: 2rem;">Comentarios</h2>
+                    
+                    <div class="comments-container" style="margin-top: 5rem; padding: 2rem; border-top: 4px solid #E60012; background: rgba(0,0,0,0.02); border-radius: 12px;">
+                        <h2 style="text-align: center; margin-bottom: 2rem; color: #E60012; font-family: system-ui, sans-serif; text-transform: uppercase; letter-spacing: 2px;">
+                            Comunidad Nintendo Switch
+                        </h2>
                         <script src="https://utteranc.es/client.js"
                                 repo="eradero/switch-dailyblog"
                                 issue-term="pathname"
@@ -113,6 +115,7 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
                                 async>
                         </script>
                     </div>
+
 
 				</div>
 			</article>
