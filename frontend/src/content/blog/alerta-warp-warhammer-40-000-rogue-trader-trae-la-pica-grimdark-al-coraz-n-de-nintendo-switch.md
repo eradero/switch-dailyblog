@@ -2,7 +2,7 @@
 title: '¡Alerta Warp! Warhammer 40,000: Rogue Trader Trae la Épica Grimdark al Corazón de Nintendo Switch'
 description: 'Prepárate para la estrategia y la narrativa profunda: Warhammer 40,000: Rogue Trader se aventura en el universo portátil de Nintendo Switch.'
 pubDate: 'Apr 25 2026'
-heroImage: 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1024'
+heroImage: 'https://images.unsplash.com/photo-1585858229735-cd76663f4c6b?q=80&w=1024'
 ---
 
 ¡Fans de Nintendo Switch, preparad vuestras naves estelares y afilad vuestras espadas energéticas! Tenemos una noticia que sin duda hará temblar los cimientos de la galaxia (o al menos, de vuestras mochilas): **Warhammer 40,000: Rogue Trader** ¡está llegando a nuestra querida consola híbrida! Sí, habéis leído bien, la épica y aclamada aventura de rol táctico se prepara para surcar los cielos del portátil.
