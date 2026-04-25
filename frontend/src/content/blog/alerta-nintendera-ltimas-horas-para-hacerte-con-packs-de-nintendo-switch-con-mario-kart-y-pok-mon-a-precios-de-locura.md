@@ -2,7 +2,7 @@
 title: '¡ALERTA NINTENDERA! Últimas Horas para Hacerte con Packs de Nintendo Switch con Mario Kart y Pokémon a Precios de Locura'
 description: 'No te quedes sin tu Nintendo Switch con los packs de Mario Kart y Pokémon a precio rebajado. ¡Aprovecha la oferta ya!'
 pubDate: 'Apr 25 2026'
-heroImage: ''
+heroImage: 'https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?q=80&w=1024'
 ---
 
 ## ¡ALERTA NINTENDERA! Últimas Horas para Hacerte con Packs de Nintendo Switch con Mario Kart y Pokémon a Precios de Locura
