@@ -102,7 +102,7 @@ def main():
             # Capa 2.5: Imagen Genérica de Calidad (No IA)
             if not final_image_url:
                 print("No se encontró imagen específica. Usando imagen genérica oficial.")
-                import random; final_image_url = random.choice(['https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?q=80&w=1024', 'https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?q=80&w=1024', 'https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1024', 'https://images.unsplash.com/photo-1510511459019-5dee21147f78?q=80&w=1024'])
+                import random; final_image_url = random.choice(["https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?q=80&w=1024", "https://images.unsplash.com/photo-1595166611255-c3a5ff7828f0?q=80&w=1024"])
                 
             # Capa 3: Generar con IA si las anteriores fallaron
             if not final_image_url:
