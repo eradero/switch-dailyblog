@@ -38,7 +38,7 @@ def is_duplicate(title, history):
     stop_words = {'de', 'la', 'en', 'el', 'un', 'una', 'con', 'por', 'para', 'que', 'y', 'los', 'las'}
     title_words = {w for w in title_words if w not in stop_words}
     
-    for item in history:
+    for item in history + [{"title": f.replace("-", " ")} for f in os.listdir(BLOG_POSTS_DIR) if f.endswith(".md")]:
         if isinstance(item, dict) and item.get("title"):
             h_words = set(re.findall(r"\w+", item["title"].lower()))
             h_words = {w for w in h_words if w not in stop_words}
