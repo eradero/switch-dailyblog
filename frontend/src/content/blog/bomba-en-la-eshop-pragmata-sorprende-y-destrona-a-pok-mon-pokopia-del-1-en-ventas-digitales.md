@@ -2,7 +2,7 @@
 title: '¡Bomba en la eShop! Pragmata Sorprende y Destrona a Pokémon Pokopia del #1 en Ventas Digitales'
 description: 'Pragmata hace historia al superar a Pokémon Pokopia como el juego más vendido en la eShop de Nintendo Switch, un hito inesperado en el mundo digital.'
 pubDate: 'Apr 26 2026'
-heroImage: 'https://wsrv.nl/?url=www.gematsu.com/wp-content/uploads/2023/06/Pragmata_2023_06-12-23_001.jpg'
+heroImage: '/images/pragmata-official.jpg'
 ---
 
 ¡Hola, nintenderos y nintenderas! Preparad vuestros Joy-Cons porque tenemos una **noticia que ha sacudido la eShop de Nintendo Switch hasta sus cimientos** y que no podéis perderos. ¡Estamos hablando de un cambio en la cima de los más vendidos que muy pocos esperaban!
