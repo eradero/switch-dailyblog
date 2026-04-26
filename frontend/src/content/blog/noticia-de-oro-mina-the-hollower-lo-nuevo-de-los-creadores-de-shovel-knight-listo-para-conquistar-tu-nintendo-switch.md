@@ -2,7 +2,7 @@
 title: '¡Noticia de Oro! Mina the Hollower, lo nuevo de los creadores de Shovel Knight, ¡listo para conquistar tu Nintendo Switch!'
 description: 'Mina the Hollower, el esperado juego de Yacht Club Games, ha alcanzado la fase ''Gold'' y se prepara para su lanzamiento en Nintendo Switch.'
 pubDate: 'Apr 25 2026'
-heroImage: 'https://wsrv.nl/?url=media.vandal.net/m/8-2025/7/20258715202983_1.jpg'
+heroImage: '/images/nintendo-switch-oled.jpg'
 ---
 
 ¡Atención, Nintenderos y amantes de los grandes desafíos retro! Tenemos una noticia que nos ha hecho saltar de la emoción, ¡y es que **Mina the Hollower**, el esperadísimo nuevo título de los genios de **Yacht Club Games**, ha alcanzado la codiciada fase "Gold"! Esto significa, ni más ni menos, que el desarrollo principal del juego ha concluido y está listo para ser enviado a fabricación o a los distribuidores digitales. ¡Es un hito enorme que nos acerca un paso más a tenerlo en nuestras manos y, por supuesto, en nuestras Nintendo Switch!
