@@ -1,5 +1,5 @@
 ---
-title: '¡ALERTA GAMER! Un JUEGAZO PRECIOSO de Switch por MENOS de 2€ que NO puedes dejar ESCAPAR'
+title: '¡ALERTA GAMER! Un JUEGAZO PRECIOSO de Switch por MENOS de 2 USD que NO puedes dejar ESCAPAR'
 description: 'Descubre un tesoro oculto en la eShop de Nintendo Switch: un título visualmente impactante a un precio increíble que no querrás perderte.'
 pubDate: 'Apr 26 2026'
 heroImage: '/images/alerta-gamer-un-juegazo-precioso-de-switch-por-menos-de-2-que-no-puedes-dejar-escapar.jpg'
@@ -9,7 +9,7 @@ heroImage: '/images/alerta-gamer-un-juegazo-precioso-de-switch-por-menos-de-2-qu
 
 ### ¡Atención, Nintenderos! ¡Tenemos una OFERTA que NO podéis dejar pasar!
 
-¿Preparados para añadir una joya más a vuestra biblioteca de Nintendo Switch sin que vuestro monedero sufra lo más mínimo? Si os gustan los juegos con un apartado artístico que quita el aliento y experiencias relajantes, ¡estáis de enhorabuena! Hemos detectado una oferta espectacular en la eShop que no podemos guardarnos. ¡Un título *precioso* por menos de 2€! Sí, habéis leído bien: ¡menos de dos euros por una aventura que os va a enamorar!
+¿Preparados para añadir una joya más a vuestra biblioteca de Nintendo Switch sin que vuestro monedero sufra lo más mínimo? Si os gustan los juegos con un apartado artístico que quita el aliento y experiencias relajantes, ¡estáis de enhorabuena! Hemos detectado una oferta espectacular en la eShop que no podemos guardarnos. ¡Un título *precioso* por menos de 2 USD! Sí, habéis leído bien: ¡menos de dos euros por una aventura que os va a enamorar!
 
 ### **Descubriendo "Whispering Grove": Una Gema Escondida**
 
@@ -26,7 +26,7 @@ Más allá de su evidente belleza, **Whispering Grove** nos sumerge en una avent
 
 ### **¡El Precio? ¡Una Auténtica Locura!**
 
-Lo mejor de todo es que esta experiencia tan única y enriquecedora está disponible por **menos de 2€** en la eShop de Nintendo Switch. En serio, ¡es un precio de risa para la calidad que ofrece! Es la oportunidad perfecta para:
+Lo mejor de todo es que esta experiencia tan única y enriquecedora está disponible por **menos de 2 USD** en la eShop de Nintendo Switch. En serio, ¡es un precio de risa para la calidad que ofrece! Es la oportunidad perfecta para:
 
 1.  **Descubrir una nueva joya:** Si te gusta probar cosas diferentes y apoyar a desarrolladores con ideas originales.
 2.  **Relajarte después de un día ajetreado:** Su ritmo pausado y su ambiente Zen son perfectos para desconectar.
