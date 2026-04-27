@@ -2,7 +2,7 @@
 title: '¡Bombazo en tu Bolsillo! Dos Gigantes de Bethesda Aterrizan con Fuerza en Nintendo Switch'
 description: 'Sumérgete en mundos épicos y acción frenética con dos aclamados juegos de Bethesda, ahora listos para tu Nintendo Switch.'
 pubDate: 'Apr 25 2026'
-heroImage: 'https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?q=80&w=1024'
+heroImage: '/images/bethesda-switch-giants.png'
 ---
 
 ¡Atención, Nintenderos de corazón! La magia de Nintendo Switch no deja de sorprendernos, y hoy tenemos noticias que harán vibrar vuestros Joy-Cons. **Bethesda**, una de las editoras más grandes de la industria, ha consolidado su presencia en nuestra consola híbrida con la llegada de (o la reafirmación de la disponibilidad de) dos de sus títulos más ambiciosos y queridos, ofreciéndonos horas y horas de diversión épica en cualquier lugar. ¡Prepárense para llevar la acción y la aventura más allá de vuestras pantallas de salón!
