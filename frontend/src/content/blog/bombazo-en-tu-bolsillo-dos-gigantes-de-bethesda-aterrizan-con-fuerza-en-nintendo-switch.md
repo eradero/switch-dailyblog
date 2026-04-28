@@ -12,7 +12,7 @@ heroImage: '/images/bethesda-switch-giants.png'
 ¿Quién no ha soñado con explorar las gélidas tierras de **Skyrim**? Este RPG de fantasía épica, desarrollado por Bethesda Game Studios, es una leyenda viviente que ha cautivado a millones de jugadores desde su lanzamiento. Y sí, ¡está disponible en Nintendo Switch para que lo disfrutes donde quieras!
 
 *   **Explora un Reino Fantástico y Enorme**: Desde las majestuosas cumbres nevadas hasta las profundidades de las mazmorras llenas de peligros, Skyrim te ofrece un vasto mundo abierto, repleto de dragones, magia ancestral, antiguas profecías y una libertad sin igual. Crea tu propio personaje, elige tu destino y conviértete en el Sangre de Dragón, el héroe que Tamriel necesita (o teme).
-*   **La Portabilidad es la Clave**: Imagina enfrentarte a un poderoso dragón mientras viajas en autobús, o desentrañar un misterio ancestral acurrucado bajo la manta en una noche fría. La versión de Switch de Skyrim es una maravilla técnica, un "port" increíblemente bien logrado que te permite llevar esta aventura colosal en tu mochila. ¡Es el mismo juego masivo que conoces y amas, pero ahora con la increíble ventaja de la portabilidad de Nintendo!
+*   **La Portabilidad es la Clave**: Imagina enfrentarte a un poderoso dragón mientras viajas en autobús, o desentrañar un misterio ancestral acurrucado bajo la manta en una nofría. La versión de Switch de Skyrim es una maravilla técnica, un "port" increíblemente bien logrado que te permite llevar esta aventura colosal en tu mochila. ¡Es el mismo juego masivo que conoces y amas, pero ahora con la increíble ventaja de la portabilidad de Nintendo!
 
 ### ¡Acción Sin Límites con DOOM Eternal!
 
