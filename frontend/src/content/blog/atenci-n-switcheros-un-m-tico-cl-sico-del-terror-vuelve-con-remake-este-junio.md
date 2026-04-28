@@ -1,14 +1,14 @@
 ---
-title: '¡Atención, Switcheros! Un Mítico Clásico del Terror Vuelve con Remake Este Junio'
-description: 'La aventura gráfica de terror que marcó a una generación está de regreso, completamente renovada y lista para aterrizar en tu Nintendo Switch en junio. ¡Preparate para los sustos!'
+title: '¡Atención, Switcheros! The 7th Guest Remake Vuelve con Todo este Junio'
+description: 'La mítica aventura gráfica de terror que marcó a una generación está de regreso. The 7th Guest Remake llega a Nintendo Switch en junio completamente renovada. ¡Preparate para los sustos!'
 pubDate: 'Apr 28 2026'
 heroImage: '/images/atenci-n-switcheros-un-m-tico-cl-sico-del-terror-vuelve-con-remake-este-junio.jpg'
-affiliateLink: 'https://www.amazon.com/s?k=classic+horror+graphic+adventure+remake+nintendo+switch&tag=blogseradero-20'
+affiliateLink: 'https://www.amazon.com/s?k=The+7th+Guest+Remake+Nintendo+Switch&tag=blogseradero-20'
 ---
 
-## ¡La Noche Vuelve a Ser Larga en Tu Switch! Un Clásico del Terror de Aventura Gráfica Confirma Su Remake para Junio
+## ¡La Mansión Stauf Te Espera! The 7th Guest Remake Confirma Su Llegada en Junio
 
-¡Atención, fanaticada de la Nintendo Switch! ¿Sos de los que disfrutan de una buena historia, de esas que te atrapan y te hacen pensar, mientras que de fondo te erizan la piel con un terror sutil pero implacable? Bueno, ¡preparate porque la noticia que acaba de caer es para vos! Esa *mítica aventura gráfica de terror* que marcó a toda una generación está de vuelta, y no de cualquier manera: ¡llega con un remake espectacular para tu consola híbrida favorita, y lo tenés disponible este mismo junio!
+¡Atención, fanaticada de la Nintendo Switch! ¿Sos de los que disfrutan de una buena historia, de esas que te atrapan y te hacen pensar, mientras que de fondo te erizan la piel con un terror sutil pero implacable? Bueno, ¡preparate porque la noticia que acaba de caer es para vos! **The 7th Guest**, la mítica aventura gráfica de terror que marcó a toda una generación, está de vuelta con un remake espectacular para tu consola favorita este mismo junio!
 
 ### Un Viaje al Pasado... ¡Renovado para el Futuro!
 
