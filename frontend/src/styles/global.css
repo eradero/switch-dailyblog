@@ -16,10 +16,10 @@
 
 html {
 	background-image: url('../assets/images/switch-background.jpg');
-	background-size: 800px;
+	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
-	background-repeat: repeat;
+	background-repeat: no-repeat;
 	background-color: #ffffff;
 	min-height: 100vh;
 }
