@@ -15,7 +15,7 @@
 }
 
 html {
-	background-image: url('../assets/images/switch-background.jpg');
+	background-image: url('/images/switch-background.jpg');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
