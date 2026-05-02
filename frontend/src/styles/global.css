@@ -21,6 +21,7 @@ html {
 	background-attachment: fixed;
 	background-repeat: repeat;
 	background-color: #ffffff;
+	min-height: 100vh;
 }
 
 body {
@@ -29,6 +30,7 @@ body {
 	padding: 0;
 	text-align: left;
 	background-color: transparent;
+	min-height: 100vh;
 	word-wrap: break-word;
 	overflow-wrap: break-word;
 	color: var(--text-primary);
