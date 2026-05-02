@@ -2,7 +2,7 @@
 title: '¡Atención, Switcheros! La Última de PlayStation Nos Recuerda Por Qué Amamos Tanto Nuestros Juegos (¡Y Cartuchos!)'
 description: 'Una noticia que sacudió el mundo gamer sobre la caducidad de juegos digitales en PlayStation nos invita a reflexionar y a valorar aún más la magia de tener nuestros títulos de Nintendo Switch bien guardados y listos para jugar.'
 pubDate: 'Apr 28 2026'
-heroImage: 'https://images.unsplash.com/photo-1612036782180-6f0b6cd846fe?q=80&w=1024'
+heroImage: '/images/atenci-n-switcheros-la-ltima-de-playstation-nos-recuerda-por-qu-amamos-tanto-nuestros-juegos-y-cartuchos.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+console+and+games&tag=blogseradero-20'
 ---
 
