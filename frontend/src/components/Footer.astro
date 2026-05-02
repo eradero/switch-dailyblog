@@ -10,17 +10,22 @@ const today = new Date();
 </footer>
 <style>
 	footer {
-		padding: 2em 1em 6em 1em;
-		background: linear-gradient(var(--gray-gradient)) no-repeat;
-		color: rgb(var(--gray));
+		padding: 4rem 1rem;
+		background: rgba(255, 255, 255, 0.8);
+		backdrop-filter: blur(10px);
+		-webkit-backdrop-filter: blur(10px);
+		border-top: 1px solid var(--glass-border);
+		color: var(--text-secondary);
 		text-align: center;
+		margin-top: 5rem;
 	}
 	.footer-links {
 		margin-top: 1.5rem;
 		font-size: 0.9em;
 	}
 	.footer-links a {
-		color: rgb(var(--gray));
+		color: var(--accent);
+		font-weight: 600;
 		text-decoration: none;
 	}
 	.footer-links a:hover {
