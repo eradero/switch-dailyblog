@@ -2,7 +2,7 @@
 title: '¡Bombazo! Nacon Connect 2026 nos dejó con la boca abierta: ¡Mirá todo lo que llega a tu Switch y a la futura Switch 2!'
 description: 'Preparate para un adelanto exclusivo de los juegazos de Nacon que van a revolucionar tu Nintendo Switch y la esperadísima Switch 2. ¡La diversión no tiene límites, y vos vas a querer jugarlos todos!'
 pubDate: 'May 08 2026'
-heroImage: 'https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=1024'
+heroImage: '/images/bombazo-nacon-connect-2026-nos-dej-con-la-boca-abierta-mir-todo-lo-que-llega-a-tu-switch-y-a-la-futura-switch-2.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+console&tag=blogseradero-20'
 ---
 
