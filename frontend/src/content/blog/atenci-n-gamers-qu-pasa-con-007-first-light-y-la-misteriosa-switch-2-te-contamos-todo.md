@@ -2,7 +2,7 @@
 title: '¡Atención, Gamers! ¿Qué Pasa con 007 First Light y la Misteriosa Switch 2? ¡Te Contamos Todo!'
 description: 'Preparate para desentrañar el misterio del retraso de 007 First Light en la esperadísima Nintendo Switch 2. ¿Optimización? ¿Sorpresas? ¡Acá te contamos los detalles que tenés que saber!'
 pubDate: 'May 09 2026'
-heroImage: 'https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=1024'
+heroImage: '/images/atenci-n-gamers-qu-pasa-con-007-first-light-y-la-misteriosa-switch-2-te-contamos-todo.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+2+007+First+Light&tag=blogseradero-20'
 ---
 

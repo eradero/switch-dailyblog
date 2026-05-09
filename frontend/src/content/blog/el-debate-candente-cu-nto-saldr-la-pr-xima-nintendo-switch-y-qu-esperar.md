@@ -2,7 +2,7 @@
 title: '¡El Debate Candente! ¿Cuánto Saldrá la Próxima Nintendo Switch y Qué Esperar?'
 description: 'Se rumorea que los inversores están presionando a Nintendo para un precio más alto de la Switch 2. ¿Qué significa esto para nosotros, los gamers, y qué podemos esperar de la consola del futuro? ¡Preparate para la charla más picante del momento!'
 pubDate: 'May 08 2026'
-heroImage: 'https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=1024'
+heroImage: '/images/el-debate-candente-cu-nto-saldr-la-pr-xima-nintendo-switch-y-qu-esperar.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+console+games&tag=blogseradero-20'
 ---
 

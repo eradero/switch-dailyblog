@@ -2,7 +2,7 @@
 title: '¡Llegó un Juegazo a tu Switch! TetherGeist ya está disponible y te va a encantar'
 description: '¡Preparate para una aventura única! TetherGeist, el innovador puzzle-platformer con fantasmas y cuerdas, ya está disponible en la eShop de Nintendo Switch para que lo disfrutes donde quieras.'
 pubDate: 'May 08 2026'
-heroImage: 'https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?q=80&w=1024'
+heroImage: '/images/lleg-un-juegazo-a-tu-switch-tethergeist-ya-est-disponible-y-te-va-a-encantar.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=TetherGeist+Nintendo+Switch&tag=blogseradero-20'
 ---
 

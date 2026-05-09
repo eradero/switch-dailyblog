@@ -2,7 +2,7 @@
 title: '¡La Sabiduría de un Groso! Reggie Fils-Aimé y su Mensaje Clave para el Futuro de los Videojuegos (¡Y lo Que Significa Para Tu Nintendo Switch!)'
 description: 'El legendario ex-presidente de Nintendo América, Reggie Fils-Aimé, compartió recientemente su invaluable perspectiva sobre los desafíos actuales de la industria gamer. Descubrí qué consejos nos dejó y cómo resuenan con la filosofía innovadora de nuestra querida Nintendo Switch.'
 pubDate: 'May 02 2026'
-heroImage: 'https://upload.wikimedia.org/wikipedia/commons/1/1b/Reginald_Fils-Aime.jpg'
+heroImage: '/images/la-sabidur-a-de-un-groso-reggie-fils-aim-y-su-mensaje-clave-para-el-futuro-de-los-videojuegos-y-lo-que-significa-para-tu-nintendo-switch.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+console+games&tag=blogseradero-20'
 ---
 
