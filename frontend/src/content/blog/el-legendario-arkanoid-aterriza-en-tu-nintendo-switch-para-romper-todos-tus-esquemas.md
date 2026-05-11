@@ -2,7 +2,7 @@
 title: '¡El legendario Arkanoid aterriza en tu Nintendo Switch para romper todos tus esquemas!'
 description: 'Preparate para la nostalgia y la acción retro: el clásico arcade Arkanoid ya está disponible en la eShop de Nintendo Switch, reviviendo la magia de los rompe-bloques gracias a la serie Arcade Archives.'
 pubDate: 'May 11 2026'
-heroImage: '/images/arkanoid-concept-art.jpg'
+heroImage: '/images/arkanoid-screenshot.png'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+Arcade+Archives+Arkanoid&tag=blogseradero-20'
 ---
 
