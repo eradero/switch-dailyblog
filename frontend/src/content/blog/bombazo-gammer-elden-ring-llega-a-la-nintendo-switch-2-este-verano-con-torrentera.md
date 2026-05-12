@@ -2,7 +2,7 @@
 title: '¡Bombazo Gammer! ¿Elden Ring llega a la Nintendo Switch 2 este verano con Torrentera?'
 description: '¡Atención, guardianes de las Tierras Intermedias! Rumores explosivos sugieren que Elden Ring podría estar llegando a la próxima consola de Nintendo, la "Switch 2", ¡con una fecha de lanzamiento filtrada para el verano! Preparate para explorar el vasto mundo de FromSoftware en modo portátil.'
 pubDate: 'May 12 2026'
-heroImage: ''
+heroImage: '/images/bombazo-gammer-elden-ring-llega-a-la-nintendo-switch-2-este-verano-con-torrentera.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Elden+Ring+Nintendo+Switch&tag=blogseradero-20'
 ---
 
