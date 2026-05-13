@@ -2,7 +2,7 @@
 title: '¡Armá tu combo gamer ideal! Nintendo lanza un bundle de Switch donde vos elegís el juego'
 description: '¡Una noticia bomba para los fans de Nintendo! La Gran N presenta un nuevo pack para la Switch que te permite elegir tu juego favorito. ¡La oportunidad perfecta para tener tu consola o sumar un juegazo a tu colección!'
 pubDate: 'May 13 2026'
-heroImage: ''
+heroImage: '/images/arm-tu-combo-gamer-ideal-nintendo-lanza-un-bundle-de-switch-donde-vos-eleg-s-el-juego.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+Choose+Your+Game+Bundle&tag=blogseradero-20'
 ---
 

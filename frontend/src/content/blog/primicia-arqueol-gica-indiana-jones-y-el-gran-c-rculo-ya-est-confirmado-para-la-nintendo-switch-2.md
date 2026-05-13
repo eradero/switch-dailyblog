@@ -2,7 +2,7 @@
 title: '¡Primicia Arqueológica! ¡Indiana Jones y el Gran Círculo ya está CONFIRMADO para la Nintendo Switch 2!'
 description: 'La leyenda del arqueólogo más famoso del mundo, Indiana Jones, se prepara para una nueva expedición, ¡y su próximo destino es nada menos que la esperadísima Nintendo Switch 2! Preparate para desenterrar secretos ancestrales con Indy en tu consola del futuro.'
 pubDate: 'May 13 2026'
-heroImage: ''
+heroImage: '/images/primicia-arqueol-gica-indiana-jones-y-el-gran-c-rculo-ya-est-confirmado-para-la-nintendo-switch-2.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Indiana+Jones+y+el+Gran+Circulo+Nintendo+Switch+2+game&tag=blogseradero-20'
 ---
 
