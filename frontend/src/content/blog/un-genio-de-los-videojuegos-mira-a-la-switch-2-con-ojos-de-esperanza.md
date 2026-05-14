@@ -2,7 +2,7 @@
 title: '¡Un Genio de los Videojuegos Mira a la Switch 2 con Ojos de Esperanza!'
 description: 'El legendario Ken Levine, la mente detrás de BioShock, nos comparte una perspectiva fascinante: ¿y si los gráficos ya no son lo más importante? ¡Mirá por qué la sucesora de nuestra querida Nintendo Switch podría ser la clave del futuro!'
 pubDate: 'May 14 2026'
-heroImage: ''
+heroImage: '/images/un-genio-de-los-videojuegos-mira-a-la-switch-2-con-ojos-de-esperanza.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Nintendo+Switch+consola+y+juegos&tag=blogseradero-20'
 ---
 
