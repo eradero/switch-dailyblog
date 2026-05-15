@@ -2,7 +2,7 @@
 title: '¡Armá las valijas y preparate: One Move Away llega en mayo a tu Nintendo Switch para una mudanza épica!'
 description: 'El estrés de la mudanza se convierte en una aventura estratégica y conmovedora con One Move Away, el ingenioso juego de puzles que aterriza en Nintendo Switch en mayo. ¡Preparate para organizar tus cosas y el corazón!'
 pubDate: 'May 15 2026'
-heroImage: ''
+heroImage: '/images/arm-las-valijas-y-preparate-one-move-away-llega-en-mayo-a-tu-nintendo-switch-para-una-mudanza-pica.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=One+Move+Away+Nintendo+Switch&tag=blogseradero-20'
 ---
 
