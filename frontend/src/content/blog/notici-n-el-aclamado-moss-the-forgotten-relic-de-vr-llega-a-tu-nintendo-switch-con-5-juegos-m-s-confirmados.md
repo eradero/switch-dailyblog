@@ -2,7 +2,7 @@
 title: '¡Notición! ¡El aclamado Moss: The Forgotten Relic de VR llega a tu Nintendo Switch, con 5 juegos más confirmados!'
 description: 'Preparate, fan de Nintendo Switch, porque uno de los juegos más queridos de Realidad Virtual, Moss: The Forgotten Relic, está a punto de aterrizar en tu consola, junto con otras sorpresas que te van a volar la cabeza.'
 pubDate: 'May 16 2026'
-heroImage: ''
+heroImage: '/images/notici-n-el-aclamado-moss-the-forgotten-relic-de-vr-llega-a-tu-nintendo-switch-con-5-juegos-m-s-confirmados.jpg'
 affiliateLink: 'https://www.amazon.com/s?k=Moss+The+Forgotten+Relic+Nintendo+Switch&tag=blogseradero-20'
 ---
 
